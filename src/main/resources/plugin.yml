@@ -1,0 +1,4 @@
+name: BunnyJump
+version: '${project.version}'
+main: me.bunnykick.bunnyjump.BunnyJump
+api-version: 1.20
